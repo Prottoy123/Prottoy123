@@ -71,8 +71,14 @@ _You can find these in my pinned repositories below 👇_
 
 ### 🏆 Achievements  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirobprottoy&theme=tokyonight)
-![Visitors](https://komarev.com/ghpvc/?username=nirobprottoy&color=blue)
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prottoy123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 ---
 
