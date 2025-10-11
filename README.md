@@ -43,9 +43,9 @@ Currently, I’m in my **frontend learning phase**, continuously improving my sk
 
 ### 📊 GitHub Stats  
 
-![Monjurul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirobprottoy&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirobprottoy&layout=compact&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirobprottoy&theme=react-dark)
+![Monjurul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prottoy123&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prottoy123&theme=react-dark)
 
 ---
 
