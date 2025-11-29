@@ -9,7 +9,7 @@ Currently, I’m in my **frontend learning phase**, continuously improving my sk
 
 ### 🧠 About Me  
 
-- 🔭 Currently learning: **Frontend Development (React, Tailwind, JavaScript)**  
+- 🔭 Currently Working: **Frontend Development (React, Tailwind, JavaScript)**  
 - 🌱 Also exploring: **Backend development & Python for data-driven applications**  
 - 💬 Ask me about: **React Hooks, Context API, Tailwind CSS, and modern UI design**  
 - ⚡ Fun fact: I break things often… but that’s how I learn best 😄  
