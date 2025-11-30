@@ -26,7 +26,7 @@
 <tr>
 <td width="50%" valign="center">
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1TVXRtNmcnHzpop/giphy.gif" width="90%" alt="Coding Gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif" />
 <br/>
 <h3>👨‍💻 About Me</h3>
 <p>I build <strong>accessible, pixel-perfect</strong> web interfaces. I'm currently focused on mastering <strong>React</strong> and integrating complex Backend logic.</p>
@@ -59,8 +59,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy123&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy123&show_icons=true&theme=transparent&hide_border=false" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&layout=compact&theme=transparent&hide_border=false" height="160" alt="Languages" />
 </div>
 
 <br/>
@@ -76,17 +76,13 @@
 #### 📝 **Mega Blog App** (Latest)
 > A full-featured blogging platform with authentication and database management.
 > * **Tech:** React, Redux Toolkit, Appwrite (Backend as a Service), Tailwind CSS
-> * **Status:** 🚧 In Progress
+> * **Status:** ✅ Completed
 
 #### 💼 **Recruit (Job Portal)**
 > A hiring platform connecting job seekers with employers.
 > * **Tech:** React, Supabase, Clerk Auth
 > * **Status:** 🚧 In Progress
 
-#### 🎨 **RAHA Project**
-> A Computer Graphics project focusing on 2D animation and transformations.
-> * **Tech:** C++, GLUT (OpenGL)
-> * **Status:** ✅ Completed
 
 ---
 
