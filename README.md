@@ -24,8 +24,8 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-8644371d95e5.gif" width="100%" alt="Coding Animation" />
+<td width="50%" align="center" valign="center">
+  <img src="https://i.pinimg.com/originals/f7/b5/e0/f7b5e0e4f03410140705023020516f6c.gif" width="100%" alt="Coding Animation" style="border-radius: 10px;" />
 </td>
 <td width="50%" valign="top">
   <br/>
