@@ -5,10 +5,10 @@
   </a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/nirobprottoy" target="_blank">
+    <a href=www.linkedin.com/in/monjurul-islam-146601249 target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:yourname@gmail.com">
+    <a href="mailto:nirobprottoy12@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://instagram.com/nirobprottoy" target="_blank">
