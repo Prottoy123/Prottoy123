@@ -22,13 +22,7 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="center">
-  <img src="https://i.pinimg.com/originals/f7/b5/e0/f7b5e0e4f03410140705023020516f6c.gif" width="100%" alt="Coding Animation" style="border-radius: 10px;" />
-</td>
-<td width="50%" valign="top">
-  <br/>
+<div align="center">
   <h3>👨‍💻 About Me</h3>
   <p>I transform complex problems into <strong>beautiful, accessible web interfaces</strong>.</p>
   
@@ -39,6 +33,7 @@
   </p>
 
   <br/>
+  
   <h3>🛠️ Tech Stack</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -51,9 +46,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
