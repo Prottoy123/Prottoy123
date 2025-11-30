@@ -26,7 +26,7 @@
 <tr>
 <td width="55%" valign="center">
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBmaDR0cHR5Y3V3dmZ4Z2V6M3Y1a2oyZ2I4MjR5emh6Z3F0ZmF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVXRtNmcnHzpop/giphy.gif" width="100%" alt="Coding Gif" style="border-radius: 10px;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif" style="border-radius: 10px;"/>
 </div>
 </td>
 <td width="45%" valign="top">
