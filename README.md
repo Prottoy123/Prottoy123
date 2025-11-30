@@ -46,27 +46,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <br/><br/>
-<h3>⚡ Activity</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2" width="100%" />
-</a>
+
+<h3>🔥 Streak</h3>
+<img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="Streak" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy123&show_icons=true&theme=transparent&hide_border=false" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&layout=compact&theme=transparent&hide_border=false" height="160" alt="Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true" alt="Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  </a>
 </div>
 
 ---
@@ -83,6 +77,10 @@
 > * **Tech:** React, Supabase, Clerk Auth
 > * **Status:** 🚧 In Progress
 
+#### 🎨 **RAHA Project**
+> A Computer Graphics project focusing on 2D animation and transformations.
+> * **Tech:** C++, GLUT (OpenGL)
+> * **Status:** 
 
 ---
 
