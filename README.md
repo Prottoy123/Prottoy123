@@ -23,39 +23,35 @@
 ---
 
 <table>
-  <tr>
-    <td width="50%" valign="center">
-       <div align="center">
-        <img src="https://media.giphy.com/media/L1R1TVXRtNmcnHzpop/giphy.gif" width="90%" alt="Coding Gif" />
-        <br/>
-        <h3>👨‍💻 About Me</h3>
-        <p>I build <strong>accessible, pixel-perfect</strong> web interfaces. I'm currently focused on mastering <strong>React</strong> and integrating complex Backend logic.</p>
-       </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
-      
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-      <br/>
-      
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
-      <br/>
-
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      
-      <br/><br/>
-      <h3>⚡ Activity</h3>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=flat&no-frame=true&no-bg=true&margin-w=2" width="100%" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="center">
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1TVXRtNmcnHzpop/giphy.gif" width="90%" alt="Coding Gif" />
+<br/>
+<h3>👨‍💻 About Me</h3>
+<p>I build <strong>accessible, pixel-perfect</strong> web interfaces. I'm currently focused on mastering <strong>React</strong> and integrating complex Backend logic.</p>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3>🛠️ Tech Stack</h3>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<br/><br/>
+<h3>⚡ Activity</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2" width="100%" />
+</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -63,14 +59,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy123&show_icons=true&theme=midnight-d&hide_border=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&layout=compact&theme=midnight-d&hide_border=true" height="160" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy123&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=midnight-d&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
@@ -80,12 +76,17 @@
 #### 📝 **Mega Blog App** (Latest)
 > A full-featured blogging platform with authentication and database management.
 > * **Tech:** React, Redux Toolkit, Appwrite (Backend as a Service), Tailwind CSS
-> * **Status:** ✅ Completed
+> * **Status:** 🚧 In Progress
 
 #### 💼 **Recruit (Job Portal)**
 > A hiring platform connecting job seekers with employers.
 > * **Tech:** React, Supabase, Clerk Auth
 > * **Status:** 🚧 In Progress
+
+#### 🎨 **RAHA Project**
+> A Computer Graphics project focusing on 2D animation and transformations.
+> * **Tech:** C++, GLUT (OpenGL)
+> * **Status:** ✅ Completed
 
 ---
 
