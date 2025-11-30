@@ -24,31 +24,33 @@
 
 <table>
 <tr>
-<td width="55%" valign="center">
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif" style="border-radius: 10px;"/>
-</div>
+<td width="50%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-8644371d95e5.gif" width="100%" alt="Coding Animation" />
 </td>
-<td width="45%" valign="top">
-<br/>
-<h3>👨‍💻 About Me</h3>
-<p>I build <strong>accessible, pixel-perfect</strong> web interfaces with a focus on modern UX.</p> 
-<p>I'm currently specializing in the <strong>React ecosystem</strong> while expanding my skills into complex <strong>Backend logic</strong> with Node.js and Python.</p>
-<p>⚡ <strong>Fun fact:</strong> I break things often… but that’s how I learn best. 🐛➡️🦋</p>
+<td width="50%" valign="top">
+  <br/>
+  <h3>👨‍💻 About Me</h3>
+  <p>I transform complex problems into <strong>beautiful, accessible web interfaces</strong>.</p>
+  
+  <p>
+    🚀 <strong>Current Focus:</strong> Mastering the <strong>React Ecosystem</strong>.<br/>
+    🧠 <strong>Learning:</strong> Advanced Backend logic with <strong>Node.js & Python</strong>.<br/>
+    ⚡ <strong>Philosophy:</strong> <em>"Make it work, make it right, make it fast."</em>
+  </p>
 
-<br/>
-<h3>🛠️ Tech Stack</h3>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <br/>
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </td>
 </tr>
 </table>
