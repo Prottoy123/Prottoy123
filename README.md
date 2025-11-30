@@ -3,7 +3,7 @@
   # 👋 Hi, I'm MD Monjurul Islam
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer+(React+%2B+Tailwind);Exploring+Backend+Engineering;Python+%26+Machine+Learning+Enthusiast;Building+Interactive+Web+Apps" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines= Frontend+Developer+(React+%2B+Tailwind);Exploring+Backend+Engineering;Python+%26+Machine+Learning+Enthusiast;Building+Interactive+Web+Apps" alt="Typing Animation" />
   </a>
 
   <p align="center">
