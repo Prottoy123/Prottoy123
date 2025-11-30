@@ -24,15 +24,19 @@
 
 <table>
 <tr>
-<td width="50%" valign="center">
+<td width="55%" valign="center">
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif" />
-<br/>
-<h3>👨‍💻 About Me</h3>
-<p>I build <strong>accessible, pixel-perfect</strong> web interfaces. I'm currently focused on mastering <strong>React</strong> and integrating complex Backend logic.</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBmaDR0cHR5Y3V3dmZ4Z2V6M3Y1a2oyZ2I4MjR5emh6Z3F0ZmF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVXRtNmcnHzpop/giphy.gif" width="100%" alt="Coding Gif" style="border-radius: 10px;"/>
 </div>
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
+<br/>
+<h3>👨‍💻 About Me</h3>
+<p>I build <strong>accessible, pixel-perfect</strong> web interfaces with a focus on modern UX.</p> 
+<p>I'm currently specializing in the <strong>React ecosystem</strong> while expanding my skills into complex <strong>Backend logic</strong> with Node.js and Python.</p>
+<p>⚡ <strong>Fun fact:</strong> I break things often… but that’s how I learn best. 🐛➡️🦋</p>
+
+<br/>
 <h3>🛠️ Tech Stack</h3>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -45,40 +49,64 @@
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<br/><br/>
-
-<h3>🔥 Streak</h3>
-<img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="Streak" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 🏆 Achievements & Trophies
-
 <div align="center">
+  <h3>🔥 Coding Streak</h3>
+  <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  <br/><br/>
+  <h3>🏆 Achievements</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="80%" />
   </a>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+<h3><img src="https://media.giphy.com/media/WNCpI0pXOjkd29pP9g/giphy.gif" width="35"> Featured Projects</h3>
 
-#### 📝 **Mega Blog App** (Latest)
-> A full-featured blogging platform with authentication and database management.
-> * **Tech:** React, Redux Toolkit, Appwrite (Backend as a Service), Tailwind CSS
-> * **Status:** ✅ Completed
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h4><img src="https://media.giphy.com/media/KyGEgYMcSp4rRrk8YI/giphy.gif" width="25"> Mega Blog App (Latest)</h4>
+      <p>A full-featured blogging platform with secure authentication, rich text editing, and database management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Appwrite_Baas-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+    <td width="30%" align="center" valign="center">
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-#### 💼 **Recruit (Job Portal)**
-> A hiring platform connecting job seekers with employers.
-> * **Tech:** React, Supabase, Clerk Auth
-> * **Status:** 🚧 In Progress
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h4><img src="https://media.giphy.com/media/KyGEgYMcSp4rRrk8YI/giphy.gif" width="25"> Recruit (Job Portal)</h4>
+      <p>A modern hiring platform bridging the gap between job seekers and employers with real-time updates.</p>
+      <p>
+         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+         <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+      </p>
+    </td>
+    <td width="30%" align="center" valign="center">
+      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-yellow?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <h3>✨ "Code is like humor. When you have to explain it, it’s bad."</h3>
+  <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
+  <img src="https://media.giphy.com/media/THVILv38V97Fj0r6zM/giphy.gif" width="50">
 </div>
