@@ -77,11 +77,6 @@
 > * **Tech:** React, Supabase, Clerk Auth
 > * **Status:** 🚧 In Progress
 
-#### 🎨 **RAHA Project**
-> A Computer Graphics project focusing on 2D animation and transformations.
-> * **Tech:** C++, GLUT (OpenGL)
-> * **Status:** 
-
 ---
 
 <div align="center">
