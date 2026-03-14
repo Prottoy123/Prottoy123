@@ -85,12 +85,13 @@
 <table width="100%">
   <tr>
     <td width="70%">
-      <h4><img src="https://media.giphy.com/media/KyGEgYMcSp4rRrk8YI/giphy.gif" width="25"> Recruit (Job Portal)</h4>
-      <p>A modern hiring platform bridging the gap between job seekers and employers with real-time updates.</p>
+      <h4><img src="https://media.giphy.com/media/KyGEgYMcSp4rRrk8YI/giphy.gif" width="25"> Grofresh (e-commerce) </h4>
+      <p>A modern grocery E-commerce platforms to get the fresh and authentic grocery</p>
       <p>
          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-         <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="30%" align="center" valign="center">
