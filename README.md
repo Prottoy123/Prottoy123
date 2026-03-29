@@ -28,7 +28,7 @@
   
   <p>
     🚀 <strong>Executing:</strong> Building <strong>GroFresh</strong> e-commerce MVP.<br/>
-    🧠 <strong>Learning:</strong>  Backend Architecture (Node.js/Express).<br/>
+    🧠 <strong>Mastering:</strong> Advanced Backend Architecture (Node.js/Express).<br/>
     🔬 <strong>Background:</strong> Academic research experience in data modeling & analytical problem-solving.<br/>
     ⚡ <strong>Philosophy:</strong> <em>"Make it work, make it right, make it fast."</em>
   </p>
@@ -55,7 +55,9 @@
 
 <div align="center">
   <h3>🔥 GitHub Analytics & Achievements</h3>
-  <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prottoy123&theme=tokyonight&hide_border=true&color=38B2AC" alt="Contribution Graph" width="95%" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&color=38B2AC" alt="Streak" />
   <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="85%" alt="Trophies" />
