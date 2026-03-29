@@ -28,7 +28,7 @@
   
   <p>
     🚀 <strong>Executing:</strong> Building <strong>GroFresh</strong> e-commerce MVP.<br/>
-    🧠 <strong>Mastering:</strong> Advanced Backend Architecture (Node.js/Express).<br/>
+    🧠 <strong>Learning:</strong>  Backend Architecture (Node.js/Express).<br/>
     🔬 <strong>Background:</strong> Academic research experience in data modeling & analytical problem-solving.<br/>
     ⚡ <strong>Philosophy:</strong> <em>"Make it work, make it right, make it fast."</em>
   </p>
