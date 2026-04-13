@@ -66,7 +66,27 @@
 
 ---
 
+---
+
 <h3><img src="https://media.giphy.com/media/WNCpI0pXOjkd29pP9g/giphy.gif" width="35"> Featured Projects</h3>
+
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h4><img src="https://media.giphy.com/media/KyGEgYMcSp4rRrk8YI/giphy.gif" width="25"> HealthBridge - MERN Healthcare System</h4>
+      <p>Building a robust health-tech ecosystem. Architecting specialized modules for patient management and doctor-patient synchronization with a focus on data integrity and real-time backend logic.</p>
+      <p>
+         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
+      </p>
+    </td>
+    <td width="30%" align="center" valign="center">
+      <img src="https://img.shields.io/badge/STATUS-CURRENTLY_WORKING-yellow?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 <table width="100%">
   <tr>
@@ -81,7 +101,7 @@
       </p>
     </td>
     <td width="30%" align="center" valign="center">
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEV-yellow?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -105,8 +125,3 @@
 </table>
 
 ---
-
-<div align="center">
-  <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
-  <img src="https://media.giphy.com/media/THVILv38V97Fj0r6zM/giphy.gif" width="50">
-</div>
