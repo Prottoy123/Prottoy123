@@ -14,6 +14,9 @@
     <a href="https://github.com/Prottoy123" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="https://monjurul-islam-xi-60.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
+    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=Prottoy123&label=Profile%20Views&color=38B2AC&style=flat" alt="Profile Views" />
@@ -25,6 +28,10 @@
 <div align="center">
   <h3>👨‍💻 Engineering Focus & Philosophy</h3>
   <p>I transform complex logical problems into <strong>production-ready web architecture (MERN)</strong>, ensuring scalability and flawless user experiences.</p>
+  
+  <p>
+    🌐 <strong>Live Portfolio:</strong> <a href="https://monjurul-islam-xi-60.vercel.app/" target="_blank">monjurul-islam-xi-60.vercel.app</a>
+  </p>
   
   <p>
     🚀 <strong>Executing:</strong> Building <strong>GroFresh</strong> e-commerce MVP.<br/>
@@ -123,5 +130,3 @@
     </td>
   </tr>
 </table>
-
----
