@@ -62,7 +62,7 @@
 
 <div align="center">
   <h3>🔥 GitHub Analytics & Achievements</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prottoy123&theme=tokyonight&hide_border=true&color=38B2AC" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prottoy123&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&color=38B2AC" alt="Streak" />
   <br/><br/>
