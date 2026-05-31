@@ -34,9 +34,8 @@
   </p>
   
   <p>
-    🚀 <strong>Executing:</strong> Building <strong>GroFresh</strong> e-commerce MVP.<br/>
+    🚀 <strong>Executing:</strong> Building <strong>HealthBridge</strong> & <strong>GroFresh</strong>.<br/>
     🧠 <strong>Mastering:</strong> Advanced Backend Architecture (Node.js/Express).<br/>
-    🔬 <strong>Background:</strong> Academic research experience in data modeling & analytical problem-solving.<br/>
     ⚡ <strong>Philosophy:</strong> <em>"Make it work, make it right, make it fast."</em>
   </p>
 
@@ -62,13 +61,27 @@
 
 <div align="center">
   <h3>🔥 GitHub Analytics & Achievements</h3>
+  
+  <!-- Contribution Graph (Fixed in First Step) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prottoy123&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
   <br/><br/>
+  
+  <!-- GitHub Stats (Added matching dark theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy123&theme=react-dark&show_icons=true&hide_border=true&v=1" alt="GitHub Stats" />
+  <br/><br/>
+  
+  <!-- Your Original Streak Card -->
   <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&color=38B2AC" alt="Streak" />
   <br/><br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="85%" alt="Trophies" />
-  </a>
+  
+  <!-- Most Used Languages (Compact layout for cleaner look) -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&theme=react-dark&hide_border=true&layout=compact&v=1" alt="Most Used Languages" />
+  <br/><br/>
+
+  <!-- Trophies -->
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&v=1" width="85%" alt="Trophies" />
+</a>
 </div>
 
 ---
