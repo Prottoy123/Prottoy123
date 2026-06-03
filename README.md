@@ -62,26 +62,25 @@
 <div align="center">
   <h3>🔥 GitHub Analytics & Achievements</h3>
   
-  <!-- Contribution Graph (Fixed in First Step) -->
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prottoy123&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
   <br/><br/>
   
-  <!-- GitHub Stats (Added matching dark theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy123&theme=react-dark&show_icons=true&hide_border=true&v=1" alt="GitHub Stats" />
+  <!-- GitHub Stats — self-hosted -->
+  <img src="https://github-readme-stats-wheat-seven-53.vercel.app/api?username=Prottoy123&theme=react-dark&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <br/><br/>
   
-  <!-- Your Original Streak Card -->
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Prottoy123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&color=38B2AC" alt="Streak" />
   <br/><br/>
   
-  <!-- Most Used Languages (Compact layout for cleaner look) -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy123&theme=react-dark&hide_border=true&layout=compact&v=1" alt="Most Used Languages" />
+  <!-- Top Languages — self-hosted -->
+  <img src="https://github-readme-stats-wheat-seven-53.vercel.app/api/top-langs/?username=Prottoy123&theme=react-dark&hide_border=true&layout=compact&cache_seconds=86400" alt="Most Used Languages" />
   <br/><br/>
 
-  <!-- Trophies -->
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&v=1" width="85%" alt="Trophies" />
-</a>
+  <!-- Trophies — self-hosted -->
+  <img src="https://github-readme-stats-wheat-seven-53.vercel.app/api/trophy?username=Prottoy123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="85%" alt="Trophies" />
+
 </div>
 
 ---
