@@ -34,7 +34,7 @@
   </p>
   
   <p>
-    🚀 <strong>Executing:</strong> Building <strong>HealthBridge</strong> & <strong>GroFresh</strong>.<br/>
+    🚀 <strong>Shipped:</strong> Production-ready <strong>HealthBridge</strong> & <strong>GroFresh</strong>.<br/>
     🧠 <strong>Mastering:</strong> Advanced Backend Architecture (Node.js/Express).<br/>
     ⚡ <strong>Philosophy:</strong> <em>"Make it work, make it right, make it fast."</em>
   </p>
@@ -50,6 +50,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
@@ -107,7 +112,7 @@
       </p>
     </td>
     <td width="30%" align="center" valign="center">
-      <img src="https://img.shields.io/badge/STATUS-CURRENTLY_WORKING-yellow?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge" />
     </td>
   </tr>
 </table>
