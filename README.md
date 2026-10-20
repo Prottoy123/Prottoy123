@@ -95,6 +95,14 @@
 
 ---
 
+<h3>🐍 Contribution Snake</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Prottoy123/Prottoy123/output/github-contribution-grid-snake-dark.svg" width="85%" alt="Snake Animation" />
+</div>
+
+---
+
 <h3>🏛️ Organizations & Highlights</h3>
 
 - **Executive Member** · *DIU Computer Programming Club (CPC)* & **Member** · *DIU Robotics Club*
