@@ -157,7 +157,7 @@
   <tr>
     <td width="70%">
       <h4><img src="https://media.giphy.com/media/KyGEgYMcSp4rRrk8YI/giphy.gif" width="22"> GroFresh - Full-Stack E-commerce</h4>
-      <p>End-to-end e-commerce platform with dedicated buyer and seller panels. Integrated <strong>Stripe payment checkout</strong> and Cloudinary/Multer pipelines, achieving <strong>~35% faster image rendering</strong>.</p>
+      <p>End-to-end e-commerce platform with dedicated buyer and seller panels. Integrated <strong>Stripe payment checkout</strong> and Cloudinary/Multer pipelines, achieving faster image rendering</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
