@@ -31,7 +31,7 @@
   </p>
   
   <p>
-    🔭 <strong>Currently Building:</strong> Multi-Tenant PERN SaaS <strong>NexaCommand</strong>.<br/>
+    🔭 <strong>Currently Building:</strong> Multi-Tenant Finance based PERN SaaS <strong>NexaCommand</strong>.<br/>
     🚀 <strong>Shipped:</strong> Production-ready <strong>HealthBridge</strong> & <strong>GroFresh</strong>.<br/>
     🧠 <strong>Mastering:</strong> Scalable Backend Architecture, Redis Concurrency & Cloud Infra.<br/>
     ⚡ <strong>Philosophy:</strong> <em>"Make it work, make it right, make it fast."</em>
